@@ -1,4 +1,5 @@
 # college-demo
+
 This is College minor project
 <br>
-Author: Dileep Chaudhary
+Author: Dileep (Tribhuvan University of Technology)
