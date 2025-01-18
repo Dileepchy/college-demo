@@ -2,4 +2,4 @@
 
 This is College minor project
 <br>
-Author: Dileep (Tribhuvan University of Technology)
+Author: Dileep Chaudhary (Tribhuvan University of Technology)
